@@ -9,7 +9,7 @@ tags:
   - IRC bots
 ---
 
-# Compte bot  
+## Compte bot  
 
 Un **compte bot** est un type spécial de compte osu! appartenant à un service automatisé et non à une personne. Sur le site web, ils ont un badge de groupe blanc intitulé `BOT`, et seulement la section `moi!` de leur profil est visible. Les comptes bots sont principalement utilisés pour héberger des "chat bots" qui offrent des fonctionnalités variées dans les salons [multijoueur](/wiki/fr/Multi) ou encore les messages privés.
 
